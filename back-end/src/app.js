@@ -22,3 +22,4 @@ import categoriasRouter from './routes/categorias.js'
 app.use('/categorias', categoriasRouter)
 
 export default app
+
